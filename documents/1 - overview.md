@@ -2,7 +2,7 @@
 
 ## What it is
 
-A backend API for a real-time multiplayer UNO game, developed as an academic capstone project. It provides authentication, match management, a friends system, and real-time communication between players.
+A backend API for a real-time multiplayer UNO game, developed as a team study project. It provides authentication, match management, a friends system, and real-time communication between players.
 
 ## Objective
 
